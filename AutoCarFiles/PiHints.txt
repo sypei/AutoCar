@@ -1,0 +1,6 @@
+This text document will be used to document helpful instructions for raspberry pi 3
+
+To pip a package to a specific folder: 
+sudo pip3 install --target=/home/pi/miniconda3/python3.4 package_name
+
+ 
